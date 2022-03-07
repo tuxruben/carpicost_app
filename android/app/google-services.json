@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "685159451189",
+    "project_id": "carpicost-d7ce3",
+    "storage_bucket": "carpicost-d7ce3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685159451189:android:bed7d6037e368b37db7f7c",
+        "android_client_info": {
+          "package_name": "com.carpicost.carpicost_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685159451189-h13opfbts0e41cjb3jj2fcfrusjnpvar.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfsehdIv2aLThILZpAISrV87oPzTTlR9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685159451189-h13opfbts0e41cjb3jj2fcfrusjnpvar.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
